@@ -153,4 +153,14 @@ li{
   #main-container li{
     padding-right:1.5rem;
   }
+  form.flexform > *{
+    flex-basis: 100%;
+
+  }
+  form.flexform h3{
+    margin: 0;
+  }
+  form.flexform button{
+    margin-top: 1rem;
+  }
 }
